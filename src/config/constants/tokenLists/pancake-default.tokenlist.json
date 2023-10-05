@@ -1,0 +1,46 @@
+{
+  "name": "MetSwap Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://metswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WMETAL Token",
+      "symbol": "WMETAL",
+      "address": "0x479E0638F61ab12c6D1a947CD667d522bC69910d",
+      "chainId": 381931,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x479E0638F61ab12c6D1a947CD667d522bC69910d.png"
+    },
+    {
+      "name": "MetSwap Token",
+      "symbol": "MET",
+      "address": "0xA0d5AcCE36Fc102c57Cd65C7b88ecC46A156dDA6",
+      "chainId": 381931,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0xA0d5AcCE36Fc102c57Cd65C7b88ecC46A156dDA6.png"
+    },
+    {
+      "name": "Wrapped METAL",
+      "symbol": "WMETAL",
+      "address": "0x479E0638F61ab12c6D1a947CD667d522bC69910d",
+      "chainId": 381931,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x479E0638F61ab12c6D1a947CD667d522bC69910d.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x6C93C4b52425163717E580bCE4669Edd6f5A31DD",
+      "chainId": 381931,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x6C93C4b52425163717E580bCE4669Edd6f5A31DD.png"
+    }
+  ]
+}
